@@ -7,7 +7,7 @@ from rich.text import Text
 console = Console()
 
 # Tu API Key de APIVoid
-API_KEY = "54fffa31c62d647b156f1d22d618cf147ae8b96f"
+API_KEY = ""
 
 def analizar_ip(ip):
     url = f"https://endpoint.apivoid.com/iprep/v1/pay-as-you-go/?key={API_KEY}&ip={ip}"
