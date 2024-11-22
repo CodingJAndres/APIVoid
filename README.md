@@ -25,19 +25,19 @@ pip install requests rich
 
 ## 🚀 Uso del script
 
-1. Clona este repositorio o descarga el archivo `analyze_ip.py`:
+1. Clona este repositorio o descarga el archivo `IP_D.py`:
 ```bash
-git clone https://github.com/tu-usuario/nombre-repositorio.git
+git clone https://github.com/CodingJAndres/APIVoid.git
 ```
 
-2. Abre el archivo `analyze_ip.py` y reemplaza la variable `API_KEY` con tu propia API Key:
+2. Abre el archivo `IP_D.py` y reemplaza la variable `API_KEY` con tu propia API Key:
 ```python
 API_KEY = "TU_API_KEY_AQUÍ"
 ```
 
 3. Ejecuta el script en tu terminal:
 ```bash
-python3 analyze_ip.py
+python3 IP_D.py
 ```
 
 4. Introduce la dirección IP que deseas analizar y revisa los resultados detallados.
